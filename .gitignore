@@ -1,0 +1,12 @@
+*.sdf
+*.sln
+*.exe
+*.obj
+*.res
+*.log
+*.tlog
+*.pdb
+*.aps
+*.opensdf
+obj
+bin
